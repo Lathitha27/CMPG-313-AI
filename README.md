@@ -1,2 +1,2 @@
-# AI_NCHE-313
+# CMPG-313-AI
 Uni course work
